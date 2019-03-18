@@ -13,7 +13,7 @@ public class StudentController {
 
     public StudentController() {
         super();
-        tmpDb.add(new Student().withFirstName("Daniel").withLastName("Lai").withAge(32));
+//        tmpDb.add(new Student().withFirstName("Daniel").withLastName("Lai").withAge(32));
     }
 
     @GetMapping("/students")

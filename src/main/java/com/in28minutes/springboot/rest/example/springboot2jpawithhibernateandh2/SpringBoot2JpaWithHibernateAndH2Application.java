@@ -8,8 +8,6 @@ public class SpringBoot2JpaWithHibernateAndH2Application {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringBoot2JpaWithHibernateAndH2Application.class, args);
-
-		Student frank = new Student().withFirstName("foo").withLastName("bar").withAge(32);
 	}
 
 }

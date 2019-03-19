@@ -50,3 +50,4 @@ public class Citizen {
         this.expiration = expiration;
     }
 }
+

@@ -1,0 +1,4 @@
+
+insert into citizens (name, passport_number, expiration) values ('Daniel Lai', 'E1234567', '2020-03-03');
+insert into citizens (name, passport_number, expiration) values ('Ben Li', 'C1234567', '2020-04-03');
+insert into citizens (name, passport_number, expiration) values ('Nick Lai', 'D1234567', '2020-05-03');
